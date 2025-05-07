@@ -1,4 +1,6 @@
 # Sneh Food Donation Platform
+Donate food and help others,
+Your waste is other's Life saving Food.
 
 A full-stack web application for managing food donations, connecting donors with organizations, and coordinating volunteer efforts.
 
